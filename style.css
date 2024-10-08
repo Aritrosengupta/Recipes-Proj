@@ -44,3 +44,7 @@ a {
 .images{
     text-align: center;
 }
+a:hover{
+    color: darkblue;
+
+}
